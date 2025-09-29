@@ -1,2 +1,2 @@
 # Machinelearning_Algorithms
-In this i will be using different machine learning algorithm and check how they work will diffeerent dataset
+In this repository, I will be using different machine learning algorithms and check how they work with different datasets
